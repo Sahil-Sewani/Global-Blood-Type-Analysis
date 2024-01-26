@@ -114,6 +114,9 @@ create_blood_type_boxplots <- function(data) {
 create_blood_type_boxplots(blood_type_data)
 ```
 
+![Screen Shot 2024-01-26 at 1 06 10 PM](https://github.com/Sahil-Sewani/Global-Blood-Type-Analysis/assets/97994997/68d11f63-80e7-452e-b736-f7c75e53670c)
+
+
 The box-plot reflects the frequency data
 
 ## Create a histogram for the blood type frequencies
@@ -147,6 +150,9 @@ create_blood_type_histogram <- function(blood_type_data) {
 ### initialize histogram function
 create_blood_type_histogram(blood_type_data)
 ```
+
+![Screen Shot 2024-01-26 at 1 07 27 PM](https://github.com/Sahil-Sewani/Global-Blood-Type-Analysis/assets/97994997/73a20025-8b50-4b27-a325-25b8fff22670)
+
 
 The histogram reflects the frequency data
 
