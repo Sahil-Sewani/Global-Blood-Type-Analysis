@@ -1,10 +1,4 @@
 # Global-Blood-Type-Analysis
----
-title: "Sewani-Sahil-Final Project"
-author: "Sahil Sewani"
-date: "2023-10-03"
-output: pdf_document
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
