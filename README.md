@@ -64,6 +64,9 @@ library(bloodtypepackage)
 summary_statistics_types <- bloodtypepackage::calculate_blood_type_summary_stats("/Users/sahil_sewani/Documents/VCU/Fall 2023/Biostatistical Computing (BIOS 524)/HW/Final R Project/bloodtypes.csv")
 ```
 
+![Screen Shot 2024-01-26 at 1 04 16 PM](https://github.com/Sahil-Sewani/Global-Blood-Type-Analysis/assets/97994997/37cddaa5-376e-4f92-a249-6e60bc45df8e)
+
+
 Analysis of results:
 For O+ blood type, the frequencies range from a minimum of 25.50 to a maximum of 75.00. The data is spread across the quartiles as follows: the first quartile (25th percentile) lies at 32.08, the median (50th percentile) is 38.17, and the third quartile (75th percentile) is 46.82. The mean frequency, representing the average, is approximately 40.35.
 
