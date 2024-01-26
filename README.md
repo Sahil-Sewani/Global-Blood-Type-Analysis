@@ -5,6 +5,8 @@ The "Global Blood Type Distribution Dataset" compiles worldwide blood type infor
 
 Link to dataset: <https://www.kaggle.com/datasets/kamilenovaes/global-blood-type-distribution>
 
+Data visualization of results: <https://github.com/Sahil-Sewani/Global-Blood-Type-Analysis/blob/main/Sewani-Sahil_FinalProject.pdf>
+
 Raw code of analysis: <[https://github.com/Sahil-Sewani/bloodtypes](https://github.com/Sahil-Sewani/Global-Blood-Type-Analysis/blob/main/globalbloodtypeanalysis_code.R)>
 
 ### Finding the most common blood type 
