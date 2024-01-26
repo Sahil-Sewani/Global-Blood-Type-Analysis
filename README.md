@@ -1,10 +1,5 @@
 # Global-Blood-Type-Analysis
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-options(repos = c(CRAN = "https://cloud.r-project.org"))
-```
-
 ## Description of data
 The "Global Blood Type Distribution Dataset" compiles worldwide blood type information. It offers a broad view of ABO blood group prevalence across diverse populations and regions. This dataset is a valuable tool for researchers, healthcare professionals, and data analysts to study global blood type diversity. It can support a range of studies, including cross-cultural research and medical analysis. Researchers can use this raw dataset to uncover significant trends and correlations related to blood types in different countries. The data will be explored in a quantitative manner and displayed through bar-plots and histograms. 
 
